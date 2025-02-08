@@ -15,6 +15,7 @@ from .nonlinear_neck import NonLinearNeck
 from .simmim_neck import SimMIMLinearDecoder
 from .spark_neck import SparKLightDecoder
 from .swav_neck import SwAVNeck
+from .CS_neck import CompressiveNeck
 
 __all__ = [
     'GlobalAveragePooling',
@@ -34,4 +35,5 @@ __all__ = [
     'SwAVNeck',
     'iTPNPretrainDecoder',
     'SparKLightDecoder',
+    'CompressiveNeck', #我的压缩采样neck
 ]

@@ -1,0 +1,9 @@
+[submodule "mmpretrain/models/backbones/CompressiveSensingDownsampler"]
+	path = mmpretrain/models/backbones/CompressiveSensingDownsampler
+	url = https://github.com/NTU-2025-Dissertation-for-CHZ/CompressiveSensingDownsampler.git
+[submodule "mmpretrain/models/necks/CompressiveSensingDownsampler"]
+	path = mmpretrain/models/necks/CompressiveSensingDownsampler
+	url = https://github.com/NTU-2025-Dissertation-for-CHZ/CompressiveSensingDownsampler.git
+[submodule "mmpretrain/models/CompressiveSensingDownsampler"]
+	path = mmpretrain/models/CompressiveSensingDownsampler
+	url = https://github.com/NTU-2025-Dissertation-for-CHZ/CompressiveSensingDownsampler.git

@@ -58,13 +58,14 @@ from .vision_transformer import VisionTransformer
 from .vit_eva02 import ViTEVA02
 from .vit_sam import ViTSAM
 from .xcit import XCiT
-
+from .cs_resnet import CS_ResNet
 __all__ = [
     'LeNet5',
     'AlexNet',
     'VGG',
     'RegNet',
     'ResNet',
+    'CS_ResNet',#我的定义的resnet
     'ResNeXt',
     'ResNetV1d',
     'ResNeSt',
